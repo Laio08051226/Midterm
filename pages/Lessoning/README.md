@@ -5,7 +5,7 @@
 ## 技術部分
 
 * CSS3
-* bootstrap
+* bootstrap + sweetalert2
 * ajax
 * PHP
 * MySQL
